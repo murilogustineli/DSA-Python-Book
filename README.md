@@ -1,5 +1,5 @@
 # Data Structures and Algorithms in Python
-Repo for storing my solutions for the exercises in the Book [__Data Structures and Algorithms in Python__](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118549582) by Goodrich, Tamassia, and Goldwasser.
+Repo for storing my solutions for the exercises in the Book [__Data Structures and Algorithms in Python__](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118549582) by __*Goodrich, Tamassia, and Goldwasser.*__
 
 ### Resources
 - [Book publisher site](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118549582)
