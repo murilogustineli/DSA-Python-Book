@@ -6,7 +6,7 @@ Repo for storing my solutions for the exercises in the Book [__Data Structures a
 - [Student Companion site](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=8029&itemId=1118290275)
 
 ### Contents
-- Ch01 - Python Primer
+- [Ch01 - Python Primer](https://github.com/murilogustineli/DSA-Python-Book/blob/main/Chapter_Notebooks/Ch01-Python-Primer.ipynb)
 - Ch02 - Object-Oriented Programming
 
 ### Book Description
