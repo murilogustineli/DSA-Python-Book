@@ -1,7 +1,7 @@
 # Data Structures and Algorithms in Python
 Repo for storing my notes and solutions for the exercises of the Book [__Data Structures and Algorithms in Python__](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118549582) by __*Goodrich, Tamassia, and Goldwasser.*__
 
-### Contents
+### Chapter Notebooks
 - [Ch01 - Python Primer](https://github.com/murilogustineli/DSA-Python-Book/blob/main/Chapter_Notebooks/Ch01-Python-Primer.ipynb)
 - [Ch02 - Object-Oriented Programming](https://github.com/murilogustineli/DSA-Python-Book/blob/main/Chapter_Notebooks/Ch02-OOP.ipynb)
 
